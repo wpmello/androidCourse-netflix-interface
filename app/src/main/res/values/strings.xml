@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="title">House of Cards</string>
+    <string name="display_session_and_episode">S1:E3</string>
 </resources>
