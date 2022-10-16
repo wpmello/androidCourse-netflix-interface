@@ -6,4 +6,6 @@
 - Guide line
 - Configuring colors app
 
-![Interface da Netflix](app/src/main/res/drawable/netflix-interface-image.jpeg) { width=60%,height:30px }
+<div align="center">
+    <img width="200" height="400" src="app/src/main/res/drawable/netflix-interface-image.jpeg">
+</div>
